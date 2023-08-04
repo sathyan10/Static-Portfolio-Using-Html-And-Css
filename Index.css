@@ -1,0 +1,180 @@
+body{
+    background-image: url('fullback.jpg');
+}
+#navigation nav{
+    margin-left: 700px;
+    position:fixed;
+    margin-top: 50px;
+}
+#navigation h5{
+    margin-left:60px ;
+    position:fixed;
+    color: red;
+    font-size: xx-large;
+    margin-top: -10px;
+}
+#navigation nav a{
+    padding: 15px;
+    text-decoration: none;
+    color: white;
+}
+#navigation nav a:hover{
+    color: red;
+}
+#Home h3{
+    color:white;
+    margin-left: 150px;
+}
+#Home span{
+    color: white;
+}
+#Home h1{
+    color: red;
+    margin-left: 150px;
+}
+#Home h5{
+    color: red;
+    margin-left: 150px;
+    font-size: xx-large;
+    position: sticky;
+    
+}
+#none{
+    position: static;
+}
+#Home #hello{
+    color: red;
+    font-weight: lighter;
+    font-size: 12px;
+}
+.HOME{
+    letter-spacing: 5px;
+    margin-top: 190px ;
+    border: solid;
+    height: fit-content;
+    background-image: url('fb2.jpg');
+    background-size: cover;
+
+    box-shadow: 5px 3px 100px greenyellow;
+    display: flow-root;
+    border-radius: 50px;
+}
+#button #b1{
+  border: 1px solid rgb(166, 75, 75);
+  border-radius: 50px;
+  font-size: 1px;
+  font-weight: lighter;
+  padding: 10px;
+  float: left;
+  background-color: aliceblue;
+}
+#button #b2{
+    border: 1px solid rgb(166, 75, 75);
+    border-radius: 50px;
+    padding: 10px;
+    float: left;
+    font-size: 1px;
+    font-weight: lighter;
+    background-color: aliceblue;
+  }
+  #About{
+    margin-top: 210px;
+    border: solid;
+    margin-left: 30px;
+    margin-right: 30px;
+    background-image: url('keybord.jpg');
+    background-size: cover;
+  }
+  #About p{
+    color: rgb(194, 183, 183);
+    font-size: 18px;
+    font-weight: lighter;
+    word-spacing: 12px;
+    letter-spacing: 2px;
+    margin-left: 60px;
+    padding: 30px;
+
+}#About h2{
+    color: rgb(194, 183, 183);
+    margin-left: 30px;
+    padding: 20px;
+    
+}
+#SKILLS{
+    color: rgb(194, 183, 183);
+    margin-top: 100px;
+    border: 1px solid black;
+    margin-left: 30px;
+    margin-right: 30px;
+    background-image: url('skill_back.jpeg');
+    background-size:cover ;
+}
+#SKILLS span{
+    font-size: 1px;
+    font-weight: lighter;
+    color: yellow;
+    word-spacing: 12px;
+    letter-spacing: 2px;
+}
+#SKILLS #p{
+    margin-left: 60px;
+    padding: 50px;
+    word-spacing: 100px;
+    
+}
+#SKILLS #dev{
+    margin-left: 60px;
+    padding: 50px;
+    word-spacing: 100px;
+    
+}
+#SKILLS .others{
+    margin-left: 60px;
+    padding: 50px;
+    word-spacing: 100px;
+    
+}
+#SKILLS h2{
+    margin-left: 40px;
+}
+#project{
+    color: greenyellow;
+    margin-right: 150px;
+    box-sizing: border-box;
+    margin-left: 30px;
+    margin-top: 100px;
+    
+}
+#project h2{
+    margin-left: 60px;
+    color:rgb(194, 183, 183) ;
+}
+#project span{
+    background-color: aqua;
+}
+#project h4{
+
+}
+
+#project .p{
+    padding: 70px;
+    float:right;
+    box-sizing: border-box;
+}
+#project img{
+    height: 100px;
+}
+#contact{
+    color: white;
+    border-top: 2px solid purple;
+    margin-left: 30px;
+    margin-top: 400px;
+    padding: 100px;
+    font-size: smaller;
+    font-weight: lighter;
+    letter-spacing: 5px;
+}
+#contact span{
+    display:inline;
+    margin-left:50px ;
+}
