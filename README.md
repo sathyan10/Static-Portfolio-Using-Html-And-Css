@@ -1,0 +1,1 @@
+In this project, I wanted to showcase my skills, projects, and achievements in a simple and elegant manner. The portfolio website is designed to be static, providing a quick overview of who I am and what I can do as a developer.
